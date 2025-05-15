@@ -22,13 +22,20 @@ The study reveals that engagement, traditionally relying on extensive feature se
 
 ---
 
+## Fulltext Access
+https://link.springer.com/article/10.1007/s40747-025-01902-z
+---
+
 ## Citing
 
 ```bibtex
-@article{jung2025eyecontact,
-  title={Eye Contact Based Engagement Prediction for Efficient Human-Robot Interaction},
-  author={jung, Magnus and Abdelrahman, Ahmed A and Hempel, Thorsten and Al-Tawil, Basheer and Yang, Qiaoyue and Wachsmuth, Sven and Al-Hamadi, Ayoub},
-  journal={Complex & Intelligent Systems},
+@article{jung2025eye,
+  title={Eye contact based engagement prediction for efficient human--robot interaction},
+  author={Jung, Magnus and Abdelrahman, Ahmed and Hempel, Thorsten and Al-Tawil, Basheer and Yang, Qiaoyue and Wachsmuth, Sven and Al-Hamadi, Ayoub},
+  journal={Complex \& Intelligent Systems},
+  volume={11},
+  number={7},
+  pages={1--20},
   year={2025},
   publisher={Springer}
 }
