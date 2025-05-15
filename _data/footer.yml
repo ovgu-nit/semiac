@@ -8,12 +8,12 @@ columns:
     - text: "apl. Prof. Dr.-Ing. habil. Ayoub Al-Hamadi"
       href: https://www.ovgu.de/Al_Hamadi.html
       new_window: true
-    - text: "Prof. Dr. rer. nat. Andreas Wendemuth"
-      href: https://www.ovgu.de/Wendemuth.html
+    - text: "PD Dr.-Ing. Sven Wachsmuth"
+      href: https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=10378
       new_window: true
 
   - description: > # E.g. funding acknowledgement. Can be Markdown
-      The project is funded by the European Regional Development Fund (ERDF) under grant No. ZS/2023/12/182056 and is planned with a project duration of 4 years (2024 to 2027).
+      The project is funded by the German Research Foundation (DFG) under grant No. 502483052.
     links:
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
