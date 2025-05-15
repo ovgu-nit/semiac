@@ -18,4 +18,7 @@ The project presented addresses this problem by systematically investigating dif
 ## Goals
 The aim of the SEMIAC project is to develop and evaluate a responsive, mobile robot system that uses implicit forms of communication, in particular the communication of interaction-relevant states and spatial prompting, to achieve automatic and adaptive coordination with human partners in cooperative situations.
 
-![image](/enabling/assets/theme/images/eu_kofinanziert380x55.jpg)
+
+# Founding
+The project is funded by the German Research Foundation (DFG) under grant No. 502483052 and is planned with a project duration of 3 years (2023 to 2026).
+
