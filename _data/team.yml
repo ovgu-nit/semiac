@@ -2,7 +2,7 @@
 
 - name: Prof. Dr.-Ing. habil. Ayoub Al-Hamadi
   role: Principal Investigator
-  image: https://www.nit.ovgu.de/typo3conf/ext/nit/Resources/Public/Images/Ayoub_Al_Hamadi.png
+  image: https://www.nit.ovgu.de/iesk_media/Bilder/ti/al_hamadi-height-145-width-120-p-824.jpeg
   description: >
     Head of the Neuro-Information Technology (NIT) research group at Otto von Guericke University Magdeburg. 
     Expert in pattern recognition, image processing, and AI-based assistance systems with over 350 publications 
@@ -12,7 +12,7 @@
 
 - name: PD Dr.-Ing. Sven Wachsmuth
   role: Principal Investigator
-  image: https://ekvv.uni-bielefeld.de/pers_publ/publ/bild.jsp?personId=10378
+  image: https://ekvv.uni-bielefeld.de/pers_publ/download/0/0/5/423036432/Original_10378.jpeg
   description: >
     Head of the Central Lab at the Center for Cognitive Interaction Technology (CITEC), Bielefeld University. 
     Specialist in human-robot interaction and cognitive systems. Contributor to numerous interdisciplinary projects, 
@@ -22,7 +22,7 @@
 
 - name: M.Sc. Magnus Jung
   role: PhD Researcher
-  image: https://www.nit.ovgu.de/typo3conf/ext/nit/Resources/Public/Images/Magnus_Jung.png
+  image: https://www.nit.ovgu.de/nit_media/Bewerbungsfoto-height-2102-width-1500.jpg
   description: >
     PhD candidate at Otto von Guericke University Magdeburg. His research focuses on context-sensitive 
     human-robot interaction, with expertise in speech processing, SLAM, and gaze-based coordination systems.
@@ -31,7 +31,7 @@
 
 - name: Qiaoyue Yang
   role: PhD Researcher
-  image: https://ekvv.uni-bielefeld.de/pers_publ/publ/bild.jsp?personId=398652361
+  image: https://ekvv.uni-bielefeld.de/pers_publ/download/g/1/c/420619444/Original_398652361.jpeg
   description: >
     PhD candidate at Bielefeld University in the field of cognitive ergonomics and multimodal human-machine interaction. 
     She is part of the Collaborative Research Center 1646 "Linguistic Creativity in Communication", focusing on adaptive assistance systems.
