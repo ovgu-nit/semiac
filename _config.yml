@@ -1,0 +1,56 @@
+# SITE SETTINGS
+title: ENABLING                       # Title in top navigation bar (navbar) and <head>
+author: NIT OVGU                    # Used for copyright statement in footer
+baseurl: /enabling                   # Only required if your site is in a directory e.g. https://username.github.io/sitename
+                                        # which has url: "https://username.github.io" (no slash) and baseurl: "/sitename" (leading slash)
+                                        # A baseurl affects internal links, see http://peterdesmet.com/petridish/markdown/#links
+
+# SOCIAL PROFILES
+social:
+  #email: name@example.com
+  #bluesky: bluesky_username.bsky.social
+  #mastodon: https://mastodon.social/@mastodon_username
+  #twitter: twitter_username
+  #linkedin: https://linkedin.com/company/project_name/
+  #facebook: https://facebook.com/groups/group_id/
+  github: ovgu-nit               # Can also be a github_username/repository
+  #disqus: disqus_sitename               # Enable Disqus comments from disqus_sitename.disqus.com
+
+# THEME SETTINGS (ALL OPTIONAL)
+posts_on_home: 20                        # Show x number of latest posts on homepage, can be 0
+archive_permalink: /blog/               # Permalink of page using the archive.html layout, required when using post tags
+github_edit: true                       # Show an "edit this page" link in the footer, can also be name of branch (default: main)
+colors:
+  links: "#007bff"                      # Color for links: use a readable color that contrasts well with dark text
+  banner: "#007bff"                     # Background color for page banners: use color that contrasts well with white
+  footer: "#6c757d"                     # Background color for footer: use color that contrasts well with white
+font_serif: False                        # Font type for page content: serif (default) or slightly smaller sans-serif
+rounded_corners: true                   # Enable (default) rounded corners on boxes and buttons
+logo: /assets/theme/images/enabling_ico.png # Logo in navbar, will be displayed with 30px height
+
+# BUILD SETTINGS
+markdown: kramdown
+plugins:                                # If you build your site on gh-pages, only use these plugins: https://pages.github.com/versions/
+  - jekyll-feed
+  - jekyll-sitemap
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - LICENSE
+  - package-lock.json
+  - package.json
+  - jekyll-theme-petridish.gemspec
+  - CITATION.cff
+
+# FRONTMATTER DEFAULTS
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default                   # Use default.html layout by default for all files
+  - scope:
+      type: posts
+    values:
+      permalink: "/blog/:year/:slug/"   # Use /blog/yyyy/{filename}/ as permalink for all posts

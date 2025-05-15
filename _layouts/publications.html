@@ -1,0 +1,90 @@
+---
+layout: base_small
+description: Template for publications page
+---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.media img {
+  width: 120px; /* Adjust the width */
+  height: 70px; /* Adjust the height */
+  object-fit: cover; /* Ensures the image fits within the dimensions */
+  margin-right: 15px; /* Add spacing between the image and text */
+}
+
+.media {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 30px;
+}
+
+.media-body {
+  flex: 1;
+}
+
+.year-section {
+  margin-top: 30px;
+}
+
+.year-title {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+.year-title {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+
+/* Remove blue color from title links */
+.media-body a {
+  color: inherit; /* Inherit color from parent element */
+  text-decoration: none; /* Remove underline */
+}
+
+.media-body a:hover {
+  text-decoration: underline; /* Optional: Add underline on hover */
+}
+</style>
+
+{{ content }}
+
+{% assign current_year = "" %}
+{% for item in site.posts %}
+  {% if item.categories contains 'Publication' %}
+    {% assign year = item.date | date: "%Y" %}
+    {% if year != current_year %}
+      {% unless current_year == "" %}
+        </div> <!-- Close previous year section -->
+      {% endunless %}
+      <div class="year-section">
+        <div class="year-title">{{ year }}</div>
+        {% assign current_year = year %}
+    {% endif %}
+    <div class="media">
+      {% if item.image %}
+        <img class="mr-3" src="{{ item.image | relative_url }}" alt="Publication Image">
+      {% endif %}
+      <div class="media-body">
+        <p style="line-height:120%;margin-bottom:0.2em; font-weight: bold;">
+          <a href="{{ item.url | relative_url }}">{{ item.title }}</a>
+        </p>
+        {% if item.author %}
+        <small>
+          <p style="line-height:110%;margin-bottom:0.2em; color: grey;">
+                <font color="grey">{{ item.author }}</font>
+            </p>
+              {{ item.conference | markdownify }}
+          </small>
+        {% endif %}
+
+      </div>
+    </div>
+  {% endif %}
+{% endfor %}
+</div> <!-- Close last year section -->
