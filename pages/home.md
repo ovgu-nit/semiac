@@ -10,7 +10,7 @@ permalink: /
 ---
 # SEMIAC
 
-## Implizite mobile Mensch-Roboter-Kommunikation für die räumliche Handlungskoordination mit aktionsspezifischer semantischer Umgebungsmodellierung*)** 
+## Implizite mobile Mensch-Roboter-Kommunikation für die räumliche Handlungskoordination mit aktionsspezifischer semantischer Umgebungsmodellierung
 
 With the increasing use of robots in industrial and everyday contexts, the need for systems that can interact flexibly and cooperatively with humans is growing. Collaborative robots (cobots) in particular, which share a common workspace with humans and can react to complex, dynamic environments, are coming into focus. A central challenge here is the context-related perception of the environment and the appropriate interpretation of human behavior.
 
