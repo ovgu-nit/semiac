@@ -7,10 +7,11 @@ permalink: /project/
 
 {: .alert .alert-warning}
  
-![image](/enabling/assets/theme/images/home.png)
+<!-- ![image](/enabling/assets/theme/images/home.png) -->
 
-# SEMIAC
-# SEMIAC
+<!-- # SEMIAC -->
+# Project
+## SEMIAC
 With the increasing use of robots in industrial and everyday contexts, the need for systems that can interact flexibly and cooperatively with humans is growing. Collaborative robots (cobots) in particular, which share a common workspace with humans and can react to complex, dynamic environments, are coming into focus. A central challenge here is the context-related perception of the environment and the appropriate interpretation of human behavior.
 
 ## Research questions
