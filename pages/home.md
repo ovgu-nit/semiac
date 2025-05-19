@@ -8,7 +8,7 @@ description: "Implizite mobile Mensch-Roboter-Kommunikation für die räumliche 
 background: /assets/theme/images/home.png
 permalink: /
 ---
-# SEMIAC
+<!-- # SEMIAC -->
 
 ## Implizite mobile Mensch-Roboter-Kommunikation für die räumliche Handlungskoordination mit aktionsspezifischer semantischer Umgebungsmodellierung
 
