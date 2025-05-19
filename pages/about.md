@@ -5,4 +5,4 @@ background: /assets/theme/images/home.png
 permalink: /about/
 ---
 
-# About
+## About
