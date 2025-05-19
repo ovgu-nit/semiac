@@ -1,7 +1,6 @@
 # SEMIAC Project Website
 
 ## Technical Details
-
 This website is built with:
 
 - [Jekyll](https://jekyllrb.com/) - Static site generator
