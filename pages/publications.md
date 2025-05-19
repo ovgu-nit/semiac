@@ -1,5 +1,5 @@
 ---
-title: SEMIAC - Publications
+title: Publications
 layout: publications
 description: 
 background: /assets/theme/images/home.png
