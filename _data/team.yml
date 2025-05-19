@@ -25,7 +25,7 @@
   image: https://www.nit.ovgu.de/nit_media/Bewerbungsfoto-height-2102-width-1500.jpg
   description: >
     PhD candidate at Otto von Guericke University Magdeburg. His research focuses on context-sensitive 
-    human-robot interaction, with expertise in speech processing, SLAM, and gaze-based coordination systems.
+    human-robot interaction, with expertise in engagment detection, speech processing and SLAM.
   orcid: 0009-0006-1353-4185 
   email: magnus.jung@ovgu.de
 
@@ -33,8 +33,7 @@
   role: PhD Researcher
   image: https://ekvv.uni-bielefeld.de/pers_publ/download/g/1/c/420619444/Original_398652361.jpeg
   description: >
-    PhD candidate at Bielefeld University in the field of cognitive ergonomics and multimodal human-machine interaction. 
-    She is part of the Collaborative Research Center 1646 "Linguistic Creativity in Communication", focusing on adaptive assistance systems.
+    PhD candidate at Bielefeld University in the field of human-robot interaction, with expertise in human goal estimation.
   orcid: 0009-0009-8529-0652
   email: qiaoyue.yang@uni-bielefeld.de
 
