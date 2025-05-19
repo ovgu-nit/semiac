@@ -16,3 +16,5 @@ With the increasing use of robots in industrial and everyday contexts, the need 
 
 ## Founding
 The project is funded by the German Research Foundation (DFG) under grant No. 502483052 and is planned with a project duration of 3 years (2023 to 2026).
+
+## Publications
