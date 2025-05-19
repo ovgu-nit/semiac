@@ -1,13 +1,13 @@
 ---
 title: SEMIAC 
 description: "Implizite mobile Mensch-Roboter-Kommunikation für die räumliche Handlungskoordination mit aktionsspezifischer semantischer Umgebungsmodellierung"
-background: /assets/theme/images/header-img.jpg
+background: /assets/theme/images/home.png
 permalink: /project/
 ---
 
 {: .alert .alert-warning}
  
-<!-- ![image](/enabling/assets/theme/images/project_img.jpg) -->
+![image](/enabling/assets/theme/images/home.png)
 
 # SEMIAC
 # SEMIAC

@@ -2,6 +2,6 @@
 title: Publications
 layout: publications
 description: 
-background: /assets/theme/images/header-img.jpg
+background: /assets/theme/images/home.png
 permalink: /publications/
 ---
