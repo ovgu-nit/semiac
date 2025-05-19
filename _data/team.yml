@@ -1,68 +1,41 @@
 # Project team members listed below will appear on the /team page
 
-- name: Philip J. Fry
-  role: Delivery boy # Will appear next to name
-  image: assets/theme/images/fry_ethan-hoover-311143-unsplash.jpg # Can be external link
-  description: > # Can be Markdown
-    Protagonist, from the 20th century. Many times great-uncle to Professor Hubert Farnsworth.
-  orcid: 0000-0000-0000-0000
-  researchgate: researchgate_username
-  googlescholar: googlescholar_username
-  bluesky: bluesky_username.bsky.social
-  mastodon: https://mastodon.social/@mastodon_username
-  twitter: twitter_username
-  linkedin: linkedin_username
-  github: github_username
-  email: name@example.com
-
-- name: Turanga Leela
-  role: Captain
+- name: Prof. Dr.-Ing. habil. Ayoub Al-Hamadi
+  role: Principal Investigator
+  image: https://www.nit.ovgu.de/iesk_media/Bilder/ti/al_hamadi-height-145-width-120-p-824.jpeg
   description: >
-    Mutant cyclops. Leela is spaceship captain, pilot, and head of all 
-    aviation services on board the [Planet Express Ship](https://en.wikipedia.org/wiki/Planet_Express_Ship). 
+    Head of the Neuro-Information Technology (NIT) research group at Otto von Guericke University Magdeburg. 
+    Expert in pattern recognition, image processing, and AI-based assistance systems with over 350 publications 
+    and extensive experience leading national and international research projects.
+  orcid: 0000-0002-3632-2402
+  email: ayoub.al-hamadi@ovgu.de
 
-- name: Professor Hubert J. Farnsworth
-  role: CEO & Owner
-  image: assets/theme/images/farnsworth_angelo-abear-1662775-unsplash.jpg
+- name: PD Dr.-Ing. Sven Wachsmuth
+  role: Principal Investigator
+  image: https://ekvv.uni-bielefeld.de/pers_publ/download/0/0/5/423036432/Original_10378.jpeg
   description: >
-    Many times great-nephew of Fry. Tenured professor of [Mars University](https://en.wikipedia.org/wiki/Mars_University).
+    Head of the Central Lab at the Center for Cognitive Interaction Technology (CITEC), Bielefeld University. 
+    Specialist in human-robot interaction and cognitive systems. Contributor to numerous interdisciplinary projects, 
+    including the Collaborative Research Center 360 "Situated Artificial Communicators".
+  orcid: 0000-0001-5371-7214
+  email: sven.wachsmuth@uni-bielefeld.de
 
-# - name: Prof. Dr.-Ing. habil. Ayoub Al-Hamadi
-#   role: Principal Investigator
-#   image: https://www.nit.ovgu.de/iesk_media/Bilder/ti/al_hamadi-height-145-width-120-p-824.jpeg
-#   description: >
-#     Head of the Neuro-Information Technology (NIT) research group at Otto von Guericke University Magdeburg. 
-#     Expert in pattern recognition, image processing, and AI-based assistance systems with over 350 publications 
-#     and extensive experience leading national and international research projects.
-#   orcid: 0000-0002-3632-2402
-#   email: ayoub.al-hamadi@ovgu.de
+- name: M.Sc. Magnus Jung
+  role: PhD Researcher
+  image: https://www.nit.ovgu.de/nit_media/Bewerbungsfoto-height-2102-width-1500.jpg
+  description: >
+    PhD candidate at Otto von Guericke University Magdeburg. His research focuses on context-sensitive 
+    human-robot interaction, with expertise in speech processing, SLAM, and gaze-based coordination systems.
+  orcid: 0009-0006-1353-4185 
+  email: magnus.jung@ovgu.de
 
-# - name: PD Dr.-Ing. Sven Wachsmuth
-#   role: Principal Investigator
-#   image: https://ekvv.uni-bielefeld.de/pers_publ/download/0/0/5/423036432/Original_10378.jpeg
-#   description: >
-#     Head of the Central Lab at the Center for Cognitive Interaction Technology (CITEC), Bielefeld University. 
-#     Specialist in human-robot interaction and cognitive systems. Contributor to numerous interdisciplinary projects, 
-#     including the Collaborative Research Center 360 "Situated Artificial Communicators".
-#   orcid: 0000-0001-5371-7214
-#   email: sven.wachsmuth@uni-bielefeld.de
-
-# - name: M.Sc. Magnus Jung
-#   role: PhD Researcher
-#   image: https://www.nit.ovgu.de/nit_media/Bewerbungsfoto-height-2102-width-1500.jpg
-#   description: >
-#     PhD candidate at Otto von Guericke University Magdeburg. His research focuses on context-sensitive 
-#     human-robot interaction, with expertise in speech processing, SLAM, and gaze-based coordination systems.
-#   orcid: 0009-0006-1353-4185 
-#   email: magnus.jung@ovgu.de
-
-# - name: Qiaoyue Yang
-#   role: PhD Researcher
-#   image: https://ekvv.uni-bielefeld.de/pers_publ/download/g/1/c/420619444/Original_398652361.jpeg
-#   description: >
-#     PhD candidate at Bielefeld University in the field of cognitive ergonomics and multimodal human-machine interaction. 
-#     She is part of the Collaborative Research Center 1646 "Linguistic Creativity in Communication", focusing on adaptive assistance systems.
-#   orcid: 0009-0009-8529-0652
-#   email: qiaoyue.yang@uni-bielefeld.de
+- name: Qiaoyue Yang
+  role: PhD Researcher
+  image: https://ekvv.uni-bielefeld.de/pers_publ/download/g/1/c/420619444/Original_398652361.jpeg
+  description: >
+    PhD candidate at Bielefeld University in the field of cognitive ergonomics and multimodal human-machine interaction. 
+    She is part of the Collaborative Research Center 1646 "Linguistic Creativity in Communication", focusing on adaptive assistance systems.
+  orcid: 0009-0009-8529-0652
+  email: qiaoyue.yang@uni-bielefeld.de
 
 # # Project team members listed below will appear on the /team page
