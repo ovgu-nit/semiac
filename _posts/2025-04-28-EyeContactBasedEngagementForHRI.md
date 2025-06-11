@@ -9,7 +9,7 @@ conference: "**CIS 2025, *accepted***"
 tags: [Journal, Springer, Publication]
 ---
 
-## Fine-grained gaze estimation based on the combination of regression and classification losses
+## Eye Contact Based Engagement Prediction for Efficient Human-Robot Interaction
 
 We introduces a new approach to predict human engagement in human-robot interactions (HRI), focusing on eye contact and distance information. Recognising engagement, particularly its decline, is essential for successful and natural interactions. This requires early, real-time user behavior detection. Previous HRI engagement classification approaches use various audiovisual features or adopt end-to-end methods. However, both approaches face challenges: the former risks error accumulation, while the latter suffer from small datasets. 
 The proposed class-sensitive model for capturing engagement in HRI is based on eye contact detection.
