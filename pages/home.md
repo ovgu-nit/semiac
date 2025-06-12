@@ -4,7 +4,7 @@ layout: home
 title: SEMIAC 
 subtitle: DFG  
 
-description: "Implicit mobile human-robot communication for spatial action coordination with action-specific semantic environment modelling"
+description: " "
 background: /assets/theme/images/home.png
 permalink: /
 ---
