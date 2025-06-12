@@ -1,7 +1,7 @@
 ---
 title: "Eye Contact Based Engagement Prediction for Efficient Human-Robot Interaction"
 description: We introduce a new approach to predict human engagement in human-robot interactions (HRI), focusing on eye contact and distance information. Recognising engagement, particularly its decline, is essential for successful and natural interactions. This requires early, real-time user behavior detection.
-background: /assets/theme/images/header-img.jpg
+background: /assets/theme/images/home.png
 image: /assets/theme/images/EyeContactBasedEngagementForHRI2025.png
 author: "Magnus Jung, Ahmed A. Abdelrahmanand, Thorsten Hempel, Basheer Al-Tawil, Qiaoyue Yang, Sven Wachsmuth, Ayoub Al-Hamadi"
 categories: [Publication, Journal, Engagement]
@@ -18,7 +18,7 @@ Direct eye contact detection, a crucial social signal in human interactions that
 The model employs a sliding window approach and consists of just three fully connected layers for feature fusion and classification, offering a minimalistic yet effective architecture.
 The study reveals that engagement, traditionally relying on extensive feature sets, can be inferred reliably from temporal eye contact dynamics. The results include a detailed analysis of established engagement levels on the UE-HRI dataset using the proposed model. Additionally, models for more nuanced engagement classification are introduced, showcasing the effectiveness of this minimalistic feature set. These models provide a robust foundation for future research, advancing robotic systems and deepening understanding of HRI, for example by improving real-time social cue detection and creating adaptive engagement strategies in HRI.
 
-![](/enabling/assets/theme/images/EyeContactBasedEngagementForHRI2025.png)
+![](/semiac/assets/theme/images/EyeContactBasedEngagementForHRI2025.png)
 
 ---
 
