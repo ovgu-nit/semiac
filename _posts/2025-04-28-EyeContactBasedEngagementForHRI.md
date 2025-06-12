@@ -23,7 +23,7 @@ The study reveals that engagement, traditionally relying on extensive feature se
 ---
 
 ## Fulltext Access
-https://link.springer.com/article/10.1007/s40747-025-01902-z
+[https://link.springer.com/article/10.1007/s40747-025-01902-z](https://link.springer.com/article/10.1007/s40747-025-01902-z)
 ---
 
 ## Citing
