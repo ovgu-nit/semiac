@@ -12,6 +12,7 @@
 #   href: /blog/
 - text: NIT-OVGU
   href: https://www.nit.ovgu.de/
+  target: _blank
 #- text: Documentation
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Installation
