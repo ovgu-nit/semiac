@@ -8,8 +8,8 @@
   href: /team/
 - text: Publications
   href: /publications/
-- text: News
-  href: /blog/
+# - text: News
+#   href: /blog/
 - text: NIT-OVGU
   href: https://www.nit.ovgu.de/
 #- text: Documentation
