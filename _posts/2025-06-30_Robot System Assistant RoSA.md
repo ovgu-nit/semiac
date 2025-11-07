@@ -1,5 +1,5 @@
 ---
-title: Robot System Assistant (RoSA): evaluation of touch and speech input modalities for on-site HRI and telerobotics
+title: Robot System Assistant (RoSA) evaluation of touch and speech input modalities for on-site HRI and telerobotics
 description: As humans and robots collaborate more in industrial settings, flexible interaction modalities become essential. This study evaluates a hybrid interaction model where the same user engages with a robot both on-site and remotely using touch and speech inputs. The Robot System Assistant (RoSA) framework is tested with two robots, Rosa and Ari. Results show that touch input provides higher precision and efficiency, while speech input offers a more intuitive, natural interaction.
 background: /assets/theme/images/home.png
 image: /assets/theme/images/rosa.jpg
@@ -24,3 +24,4 @@ Future work scenarios envision increased collaboration between humans and robots
   publisher={Frontiers}
 }
 ```
+
