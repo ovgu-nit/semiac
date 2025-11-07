@@ -4,6 +4,12 @@
   href: /
 - text: Project
   href: /project/
+- text: Dataset
+  menu:
+  - text: SEMIAC 1
+    href: /datasets/SEMIAC/
+  - text: ODE-3D 
+    href: /datasets/ODE-3D/
 - text: Team
   href: /team/
 - text: Publications
