@@ -5,7 +5,7 @@ background: /assets/theme/images/home.png
 image: /assets/theme/images/TowardTrulyIntelligentAutonomousSystems.png
 author: "Magnus Jung, Thorsten Hempel, Basheer Al-Tawil, Qiaoyue Yang and Sven Wachsmuth, Ayoub Al-Hamadi"
 categories: [Publication, Conference, LLM Integration]
-conference: "**ROBOVIS 2025, *accepted***"
+conference: "**ROBOVIS 2025**"
 tags: [ROBOVIS 2025, Conference]
 ---
 
@@ -21,10 +21,11 @@ Integrating LLMs with autonomous systems enables new real-world applications by 
 ## Citing
 
 ```bibtex
-@article{jung2025,
-  title={Toward Truly Intelligent Autonomous Systems: A Taxonomy of LLM Integration for Everyday Automation},
+@inproceedings{jung2025toward,
+  title={Toward truly intelligent autonomous systems: a taxonomy of LLM integration for everyday automation},
   author={Jung, Magnus and Hempel, Thorsten and Al-Tawil, Basheer and Yang, Qiaoyue and Wachsmuth, Sven and Al-Hamadi, Ayoub},
   booktitle={International Conference on Robotics, Computer Vision and Intelligent Systems},
+  pages={74--91},
   year={2025},
   organization={Springer}
 }
