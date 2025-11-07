@@ -4,9 +4,9 @@
   href: /
 - text: Project
   href: /project/
-- text: Dataset
+- text: Datasets
   menu:
-  - text: SEMIAC 1
+  - text: SEMIAC
     href: /datasets/SEMIAC/
   - text: ODE-3D 
     href: /datasets/ODE-3D/
