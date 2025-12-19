@@ -8,6 +8,8 @@
   menu:
   - text: SEMIAC
     href: /datasets/SEMIAC/
+  - text: NITEC 
+    href: /datasets/NITEC/
   - text: ODE-3D 
     href: /datasets/ODE-3D/
 - text: Team
