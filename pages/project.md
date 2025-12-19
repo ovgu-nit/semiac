@@ -22,13 +22,12 @@ The project presented addresses this problem by systematically investigating dif
 The aim of the SEMIAC project is to develop and evaluate a responsive, mobile robot system that uses implicit forms of communication, in particular the communication of interaction-relevant states and spatial prompting, to achieve automatic and adaptive coordination with human partners in cooperative situations.
 
 ## Report
-### SEMIAC-1 (AL 638/15, WA 1622/2-1): Detaillierte Ergebnisse des Vorprojekts (Bericht)
 
-Das abgeschlossene Projekt **SEMIAC-1** („Implizite mobile Mensch-Roboter-Kommunikation für die räumliche Handlungskoordination mit aktionsspezifischer semantischer Umgebungsmodellierung“) – Projektnr. **502483052 (AL 638/15, WA1622/2-1)** – etablierte fundierte wissenschaftliche und technische Grundlagen für sozial kompetente, räumlich präzise Eins-zu-Eins-Interaktionen (vgl. [https://ovgu-nit.github.io/semiac/](https://ovgu-nit.github.io/semiac/)). Kernfragen lauteten, wie ein mobiler Roboter menschliche Intentionen, Aufmerksamkeit, emotionale Zustände und soziale Signale robust erfasst und in transparentes, responsives Verhalten umwandelt. Dies gelang durch eine enge Verzahnung von experimenteller Datenakquisition (z.B. Wizard-of-Oz-Studien mit gezielt induzierten Fehlern zur Provokation realer Probandenreaktionen), fortschrittlichen Wahrnehmungsmodellen, semantischer Umgebungsinterpretation, sozialer Signalverarbeitung und lernfähiger Bewegungssteuerung.
+Das Projekt **SEMIAC** („Implizite mobile Mensch-Roboter-Kommunikation für die räumliche Handlungskoordination mit aktionsspezifischer semantischer Umgebungsmodellierung“) – Projektnr. **502483052 (AL 638/15, WA1622/2-1)** – etablierte fundierte wissenschaftliche und technische Grundlagen für sozial kompetente, räumlich präzise Eins-zu-Eins-Interaktionen (vgl. [https://ovgu-nit.github.io/semiac/](https://ovgu-nit.github.io/semiac/)). Kernfragen lauteten, wie ein mobiler Roboter menschliche Intentionen, Aufmerksamkeit, emotionale Zustände und soziale Signale robust erfasst und in transparentes, responsives Verhalten umwandelt. Dies gelang durch eine enge Verzahnung von experimenteller Datenakquisition (z.B. Wizard-of-Oz-Studien mit gezielt induzierten Fehlern zur Provokation realer Probandenreaktionen), fortschrittlichen Wahrnehmungsmodellen, semantischer Umgebungsinterpretation, sozialer Signalverarbeitung und lernfähiger Bewegungssteuerung.
 
 #### Empirische Datengrundlagen
 
-Im Projekt SEMIAC-1 wurden die folgenden empirischen Datengrundlagen geschaffen:
+Im Projekt SEMIAC wurden die folgenden empirischen Datengrundlagen geschaffen:
 
 - **SEMIAC-Datensatz**: Multimodal und mehrperspektivisch (Robotersicht + externe Kameras), speziell für die Analyse impliziter Kommunikationsdynamiken in herausfordernden 1-zu-1-Situationen (vgl. [https://ovgu-nit.github.io/semiac/datasets/SEMIAC/](https://ovgu-nit.github.io/semiac/datasets/SEMIAC/)) [semiac19].
 - **NITEC-Datensatz**: Fokussiert auf Egoperspektive-Blickkontaktschätzung; Modelle erreichen bis zu 86,8 % Genauigkeit mit minimalen Features wie Blickintensität über die Zeit und übertreffen bestehende Methoden (vgl. [https://ovgu-nit.github.io/semiac/datasets/NITEC/](https://ovgu-nit.github.io/semiac/datasets/NITEC/)) [semiac1, semiac6].
@@ -53,7 +52,7 @@ Für die Entwicklung integrierter Verhaltensmodelle auf den Roboterplattformen w
 
 #### Erweiterte Beiträge
 
-Erweiterte Beiträge (weitere 9 Publikationen) decken Multi-Sensor-Fusion [semiac8], multimodale Assistenz [semiac9], Handlungserkennung [semiac10, semiac17], Blickschätzung [semiac11], Radiance-Fields [semiac12], Gestenerkennung [semiac15], Sprachintents [semiac16] und robuste Blickkontaktmodelle [semiac18] ab. Diese dokumentieren die wissenschaftliche Tiefe, Breite und enge Kooperation der Forschungsgruppen im Rahmen von SEMIAC-1.
+Erweiterte Beiträge (weitere 9 Publikationen) decken Multi-Sensor-Fusion [semiac8], multimodale Assistenz [semiac9], Handlungserkennung [semiac10, semiac17], Blickschätzung [semiac11], Radiance-Fields [semiac12], Gestenerkennung [semiac15], Sprachintents [semiac16] und robuste Blickkontaktmodelle [semiac18] ab. Diese dokumentieren die wissenschaftliche Tiefe, Breite und enge Kooperation der Forschungsgruppen im Rahmen von SEMIAC.
 
 ### Literatur
 
